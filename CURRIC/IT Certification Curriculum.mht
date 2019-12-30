@@ -1,0 +1,442 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/586C3F0D/ITCertificationCurriculum.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DOneNote.File>
+<meta name=3DGenerator content=3D"Microsoft OneNote 15">
+<link id=3DMain-File rel=3DMain-File href=3DITCertificationCurriculum.htm>
+<link rel=3DFile-List href=3D"ITCertificationCurriculum_files/filelist.xml">
+</head>
+
+<body lang=3Den-US style=3D'font-family:"Times New Roman";font-size:12.0pt'>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:3.1416in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:3.1416in'>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:20.0pt'>Prep=
+aring
+for the Exam</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0409in;margin-left:0in;width:2.2763=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+Saturday,
+April 6, 2019</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+10:24
+PM</p>
+
+</div>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:7.5in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:2.7298in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>Learni=
+ng
+Objectives</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0409in;margin-left:0in;width:2.1222=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+Friday,
+April 5, 2019</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+11:42
+PM</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.4326in;margin-left:0in;width:7.5in'>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Intr=
+o to
+SPX (What purpose does it serve?)</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>What=
+ it is</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>What=
+ it
+isn’t </p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about VSS (<a
+href=3D"https://docs.microsoft.com/en-us/windows-server/storage/file-server=
+/volume-shadow-copy-service">https://docs.microsoft.com/en-us/windows-serve=
+r/storage/file-server/volume-shadow-copy-service</a>)</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about snapshot driver</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about backup process </p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about securing the backup infrastructure</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Hidden shares</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Encryption</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Redundancy</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Testing</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about how it works (review log files?)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>From start to finish, what does it look like?</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>What
+troubleshooting tools do we have available?</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Basi=
+cs of
+software troubleshooting?</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about mount driver</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about virtualboot </p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Capabilities</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Weaknesses</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Usage</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Lice=
+nsing
+basics</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about restore capabilities</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about what the MD5 hash is and what it’s used for</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Why is there a bitmap file with the backup files?</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about what an image chain is</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Chain management best practices</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about backup job types</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about kernel level drivers</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+partitioning basics (MBR vs GPT)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>What partitions need to be backed up?</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>How do I know the original partition layout?</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about drive GUIDs and their interaction with SPX</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about json files</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Learn
+about .db3 file</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Log
+locations and uses</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>End =
+of
+chapter/section definitions</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Labs=
+</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>How =
+to
+install</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>What happens during the install process?</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Go over install logs to see how healthy logs look</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>What=
+ can
+happen with a backup job to break it?</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Diff gen logs?</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Inst=
+all
+(push and manual, GPO?)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Linux installation (similarities and differences)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:"Times New Roman";
+font-size:12.0pt'>Installation types: tools only, backup agent only, and fu=
+ll</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Setu=
+p a
+backup job (locally and remote management, SC?)</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Moni=
+tor
+the job</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Email
+alerts</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Job
+schedules</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Adva=
+nced
+options (when to use them)</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Basic
+powershell scripting?</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>Data=
+bases
+and their interaction with SPX (start and stop script implementation to pau=
+se
+the database during backup so corruption is mitigated)</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+<p style=3D'margin:0in;font-family:"Times New Roman";font-size:12.0pt'>&nbs=
+p;</p>
+
+</div>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:2.1222in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0409in;margin-left:0in;width:2.1222=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+Friday,
+April 5, 2019</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+11:43
+PM</p>
+
+</div>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:2.1222in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0409in;margin-left:0in;width:2.1222=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+Friday,
+April 5, 2019</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+11:43
+PM</p>
+
+</div>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:2.1222in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0409in;margin-left:0in;width:2.1222=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+Friday,
+April 5, 2019</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+11:43
+PM</p>
+
+</div>
+
+</div>
+
+</div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:2.1222in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:.5631in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'>&nbsp;=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0409in;margin-left:0in;width:2.1222=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+Friday,
+April 5, 2019</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'>=
+11:43
+PM</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'text-align:left;margin:0in;font-family:Arial;font-size:9pt;
+color:#969696;direction:ltr'>Created with Microsoft OneNote 2016.</p>
+
+</div>
+
+</body>
+
+</html>
